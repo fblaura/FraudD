@@ -26,3 +26,10 @@ Another test we decided to perform was to reduce the dimensionality of the datas
 ## Autoencoders for classification 
 
 Another method that can be used to reduce dimensionality is to make use of Autoencoders to transform/compress the information in a given information space.
+
+# Information about the original dataset 
+
+As mentioned above, the original dataset comes from a Kaggle competition. For more information about the dataset, access the following Kaggle page: [IEEE -CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/)
+ 
+
+In that competition, the machine learning models evaluated are expected to be able to deal with the large dataset provided. The data comes from e-commerce transactions contained within the Vesta world, containing a wide range of features. Vesta Corporation is the forerunner in guaranteed e-commerce payment solutions.
