@@ -3,7 +3,7 @@
 This repository is focused on testing different Machine Learning methods and techniques to detect fraud, in this case, on a dataset containing a compendium of electronic transactions related to commerce. This dataset can be downloaded directly from its Kaggle competition "IEEE - CIS Fraud Detection". Throughout the different folders you will find different notebooks where models are tested with different parameters either during training or during scaling, preprocessing, among others. 
 Within this project it is possible to find the following folders
 
-## Scanning and preprocessing
+ ## Exploration and preprocessing
 
 Here you can find all the notebooks related to the initial analysis of the original dataset. As well as the application of feature engineering, scaling and coding methods. 
 
