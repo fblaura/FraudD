@@ -7,7 +7,7 @@ Within this project it is possible to find the following folders
 
 Here you can find all the notebooks related to the initial analysis of the original dataset. As well as the application of feature engineering, scaling and coding methods. 
 
-## 2. AutoML 
+##  [2. AutoML](https://github.com/fblaura/FraudD/tree/main/2_AutoML)
 
 As an initial way to know which classification models to use, an automatic training process (AutoML -H2O) is used. Since different forms of scaling were tested, different notebooks have been included to test the classification models on them. 
 
