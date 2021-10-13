@@ -11,7 +11,7 @@ Here you can find all the notebooks related to the initial analysis of the origi
 
 As an initial way to know which classification models to use, an automatic training process (AutoML -H2O) is used. Since different forms of scaling were tested, different notebooks have been included to test the classification models on them. 
 
-## 3. GridSearch and hyperparameter settings 
+## 3. GridSearch and hyperparameters tuning 
 
 After choosing the best models GridSearch is used to obtain a definition of the best parameters to help classify our fraud problem appropriately. 
 
