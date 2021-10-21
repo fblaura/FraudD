@@ -16,7 +16,7 @@ As an initial way to know which classification models to use, an automatic train
 
 After choosing the best models GridSearch is used to obtain a definition of the best parameters to help classify our fraud problem appropriately. 
 
-## 4. Training with supervised models
+## [4. Training with supervised models](https://github.com/fblaura/FraudD/tree/main/4_Supervised_models)   
 
 An analysis was done regarding the best scaling and SMOTE rate with supervised classification models (initially chosen by AutoML).
 
