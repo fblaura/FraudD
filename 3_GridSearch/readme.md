@@ -14,7 +14,7 @@ The following figures show the accuracy performance of the GridSearch training p
 As mentioned above, the GradientBoosting and XGBoost models (with better metrics during the AutoML process) are observed, making a hyperparameter adjustment for both models.
 The following figures show the accuracy performance of the GridSearch model training versus the number of cross-validation splits. On the one hand, it is first noted that the execution time is not equal for both models, since XGBoost with normalization takes longer than when scaling with StandardScaler was used to train (reducing the cv options from 5 splits to 10 splits, as you can see in **Figure 3**). 
 
-![GridSearch GB for Normalizer with SMOTE 0.1](https://github.com/fblaura/FraudD/blob/main/3_GridSearch/images/gridgbm_n01.png)
+![GridSearch GB for Normalizer with SMOTE 0.1](https://github.com/fblaura/FraudD/blob/main/3_GridSearch/images/gridgbm_n01_sized.png)
 
 **Figure 2.:** GridSearch for GradientBoosting 
 
