@@ -20,7 +20,8 @@ After choosing the best models GridSearch is used to obtain a definition of the 
 
 An analysis was done regarding the best scaling and SMOTE rate with supervised classification models (initially chosen by AutoML).
 
-## 5. Feature selection and dimensionality reduction 
+## [5. Feature selection and dimensionality reduction](https://github.com/fblaura/FraudD/tree/main/5_Dimensionality_reduction)  
+
 
 Another test we decided to perform was to reduce the dimensionality of the dataset, either from techniques that select the best features or methods that make a transformation of the information by reducing the dimension of the dataset. 
 
