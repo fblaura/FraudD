@@ -1,0 +1,1 @@
+Creation of images folder
